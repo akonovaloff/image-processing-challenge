@@ -4,3 +4,4 @@ pytest
 PyYAML
 scipy
 allure-pytest
+pandas
