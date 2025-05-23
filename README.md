@@ -1,1 +1,0 @@
-# imge-processing-challenge

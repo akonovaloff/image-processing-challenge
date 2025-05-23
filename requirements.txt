@@ -1,0 +1,6 @@
+numpy
+pillow
+pytest
+PyYAML
+scipy
+allure-pytest
