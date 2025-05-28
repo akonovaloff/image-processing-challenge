@@ -6,3 +6,4 @@ scipy
 allure-pytest
 pandas
 serial
+pytest-mock

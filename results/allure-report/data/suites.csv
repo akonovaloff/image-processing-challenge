@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","0","Тест: положение пятна","tests","Fri May 23 12:03:00 GET 2025","passed","Fri May 23 12:03:00 GET 2025","TestImageProcession","test_image_procession","",""
-"","0","Тест: стандартное отклонение","tests","Fri May 23 12:03:00 GET 2025","failed","Fri May 23 12:03:00 GET 2025","TestImageProcession","test_image_procession","",""
-"","1","Тест: дисперсия","tests","Fri May 23 12:03:00 GET 2025","failed","Fri May 23 12:03:00 GET 2025","TestImageProcession","test_image_procession","",""

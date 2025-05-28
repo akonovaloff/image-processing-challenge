@@ -47,7 +47,6 @@ class CommunicationInterface(ABC):
 class SerialCommunicator(CommunicationInterface):
     """
     Реализация интерфейса связи для Serial порта.
-    Требуется библиотека pyserial (pip install pyserial).
     """
     def __init__(self, port: str, baudrate: int = 9600, timeout: float = 1.0):
         self.port = port
